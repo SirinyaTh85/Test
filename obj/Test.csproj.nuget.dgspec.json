@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sirinya.Bell\\Desktop\\GG\\GG.csproj": {}
+    "C:\\Users\\Sirinya.Bell\\Desktop\\MidTerm085\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sirinya.Bell\\Desktop\\GG\\GG.csproj": {
+    "C:\\Users\\Sirinya.Bell\\Desktop\\MidTerm085\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sirinya.Bell\\Desktop\\GG\\GG.csproj",
-        "projectName": "GG",
-        "projectPath": "C:\\Users\\Sirinya.Bell\\Desktop\\GG\\GG.csproj",
+        "projectUniqueName": "C:\\Users\\Sirinya.Bell\\Desktop\\MidTerm085\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\Sirinya.Bell\\Desktop\\MidTerm085\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Sirinya.Bell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sirinya.Bell\\Desktop\\GG\\obj\\",
+        "outputPath": "C:\\Users\\Sirinya.Bell\\Desktop\\MidTerm085\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
